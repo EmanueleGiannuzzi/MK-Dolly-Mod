@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mkdollymod",
+  "name": "MK Dolly Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DjGiannuzz"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
